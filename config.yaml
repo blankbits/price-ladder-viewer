@@ -1,0 +1,34 @@
+db_user: 
+db_password: 
+db_host: 
+db_name: tick_data
+db_table_quotes: es_quote
+db_table_trades: es_trade
+symbol: ESU13
+tick_size: 0.25
+date: '2013-09-02'
+start_time: '05:45:00.000'
+end_time: '05:50:00.000'
+row_count: 10
+price_format: '{:7.2f}'
+speed: 1.0
+column_colors:
+- - 255
+  - 255
+  - 255
+- - 63
+  - 63
+  - 255
+- - 208
+  - 208
+  - 208
+- - 255
+  - 63
+  - 63
+- - 255
+  - 255
+  - 255
+window_width: 545
+window_height: 345
+font_name: Courier New
+font_size: 14
