@@ -22,7 +22,7 @@ It pulls data in tickdata.com format from a MySQL database, and uses QT GUI
 components to animate a price ladder view of the market for a given time window.
 
 Example:
-    $ python price_ladder_viewer.py config.yaml
+    $ python price_ladder_viewer.py --config_file config.yaml
 """
 
 import argparse
