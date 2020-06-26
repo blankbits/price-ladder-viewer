@@ -2,7 +2,7 @@
 PriceLadderViewer is a simple QT-based GUI for visualizing historical quotes and trades as a price ladder. The data is pulled from a SQL database, and behavior is configured in config.yaml. 
 
 ## Usage
-See [price\_ladder\_viewer.py](https://github.com/blankbits/price_ladder_viewer/blob/master/price_ladder_viewer.py) for example usage.
+See [price\_ladder\_viewer.py](price_ladder_viewer.py) for example usage.
 
 ## Contributing
 1. Fork it!
