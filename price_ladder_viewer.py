@@ -15,7 +15,7 @@
 # limitations under the License.
 # ==============================================================================
 
-"""Price Ladder Viewer is a tool for visualizing historical tick data from
+"""PriceLadderViewer is a tool for visualizing historical tick data from
 electronically traded financial instruments.
 
 It pulls data in tickdata.com format from a MySQL database, and uses QT GUI
